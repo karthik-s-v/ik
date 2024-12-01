@@ -1,1 +1,2 @@
 print("yu")
+print("ji')
